@@ -2,7 +2,7 @@ spring:
   profiles: default
 feature:
   x: 
-    enable: true
+    enable: false
 ---
 spring:
   profiles: production
